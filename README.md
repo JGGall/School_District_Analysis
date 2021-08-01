@@ -31,6 +31,6 @@
 
 ## Summary
 ### The most important change in the School District Analysis after the Thomas High School ninth graders' scores were excluded is the simple fact that the math and reading scores for those students are missing and will never be restored. As they move through the grades of their high school in future years it will be impossible to measure the progress of that cohort. A second change is that is also impossible to compare the scores of the current ninth graders at that school with the scores of students in the other grades. A third change is that the scores of ninth graders at THS can no longer be compared to the scores of ninth graders at other schools in the district. 
-![DF_Image_Top_before_adjustment]
+![DF_Image_Top_before_adjustment](https://github.com/JGGall/School_District_Analysis/blob/main/Resources/DF_Image_Top_before_adjustment.png)
 ![DF_Image_Top_after_adjustment]
 A fourth change is that Thomas High School, which is the second-highest-performing school based on overall percentage of student passing in math and reading, experienced a drop in that key indicator: its overall percentage dropped from 90.948012% to 90.630324%. This very nearly led to Thomas dropping in rank from #2 to #3 in the district. That percentage drop highlights the fact that is is now impossible to know whether the original percentage was accurate, or whether it was based on math and reading scores that had been altered rather than earned.
