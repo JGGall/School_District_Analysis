@@ -37,6 +37,6 @@ The following two images are portions of the code I used to select the math and 
 This image shows the first five rows of the DataFrame for the schools ranked by performance, before the scores of the ninth graders at Thomas High School were replaced by NaNs:
 ![DF_Image_Top_before_adjustment](https://github.com/JGGall/School_District_Analysis/blob/main/Resources/DF_Image_Top_before_adjustment.png)
 
-And this image shows the DtaFrame for performance after the adjustment:
+And this image shows the DataFrame for performance after the adjustment:
 ![DF_Image_Top_after_adjustment](https://github.com/JGGall/School_District_Analysis/blob/main/Resources/DF_Image_Top_after_adjustment.png)
 A fourth change is that Thomas High School, which is the second-highest-performing school based on overall percentage of student passing in math and reading, experienced a drop in that key indicator: its overall percentage dropped from 90.948012% to 90.630324%. This very nearly led to Thomas dropping in rank from #2 to #3 in the district. That percentage drop highlights the fact that is is now impossible to know whether the original percentage was accurate, or whether it was based on math and reading scores that had been altered rather than earned.
