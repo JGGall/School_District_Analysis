@@ -12,7 +12,7 @@
 - In the DataFrame "per_school_summmary_df," the changes brought on by excluding the scores of Thomas High School ninth graders are more evident, but they still do not make a large impact. Of course, among the 15 schools the only school affected at all is Thomas High School itself. The two average scores (math and reading) dropped slightly, but when the scores are rounded the difference practically disappears. The percentage passing in math, reading, and overall dropped by about 0.1%, 0.2%, and 0.3% respectively.
 ![Code_Image_select_math](https://github.com/JGGall/School_District_Analysis/blob/main/Resources/Code_Image_select_math.png)
 
-![Code_Image_select_reading]
+![Code_Image_select_reading](https://github.com/JGGall/School_District_Analysis/blob/main/Resources/Code_Image_select_reading.png)
 
 
 ### How does replacing the ninth-grade scores affect the following:
